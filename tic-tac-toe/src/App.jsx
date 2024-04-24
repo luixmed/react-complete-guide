@@ -1,5 +1,7 @@
+import GameContainer from "./components/GameContainer";
+
 function App() {
-  return <p>Hello World!</p>;
+  return <GameContainer></GameContainer>;
 }
 
 export default App;
